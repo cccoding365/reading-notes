@@ -1,2 +1,11 @@
-# reading-notes
-Notes of important information, understanding, and thinking recorded during the reading process.
+# 阅读笔记
+
+记录我在学习过程中的一些知识点，一边日后查阅时不需要再去翻阅原书。
+
+## 正在阅读
+
+-   《JavaScript 高级程序设计》（第 3 版）
+
+## 完成阅读
+
+-   暂无
